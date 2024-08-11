@@ -1,0 +1,13 @@
+{
+  "name": "surfblockschain",
+  "version": "1.0.0",
+  "license": "MIT",
+  "scripts": {
+    "start": "serve",
+    "tsc": "tsc"
+  },
+  "devDependencies": {
+    "@types/node": "^10.5.1",
+    "typescript": "~3.0.0"
+  }
+}
